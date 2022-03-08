@@ -39,3 +39,4 @@ Then, we want to analyze how much each state speaks about climate change and if 
 - Sandy: Data Cleaning, Preliminary analysis
 
 
+
