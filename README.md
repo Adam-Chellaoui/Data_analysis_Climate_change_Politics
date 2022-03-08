@@ -1,5 +1,3 @@
-# ada-2021-project-ada-venturers
-
 # Please Act ! (Politicians Lie Everytime About Subjects on the Environment, Acknowledge Climate Transformation !)
 
 ## Link the the Data Story:
